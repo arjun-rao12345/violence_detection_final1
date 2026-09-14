@@ -1,0 +1,15 @@
+open new terminal
+
+cd admin   - npm run dev
+
+
+cd police  - npm run dev
+
+
+cd server - nodemon
+
+
+
+open anaconda prompt
+
+conda activate violence-env

@@ -1,0 +1,5 @@
+violence detection/violence-env/ 
+__pycache__/ 
+*.pyc 
+server/uploads/evidence/ 
+*.mp4 
