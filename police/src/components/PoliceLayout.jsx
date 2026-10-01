@@ -41,7 +41,7 @@ const menuItems = [
   { text: 'Incidents', icon: <ReportProblem />, path: '/incidents' },
   { text: 'Navigation', icon: <Explore />, path: '/navigation' },
   { text: 'Backup', icon: <GroupAdd />, path: '/backup' },
-  { text: 'Resolved', icon: <CheckCircle />, path: '/resolved' },
+  // { text: 'Resolved', icon: <CheckCircle />, path: '/resolved' },
   { text: 'Voilation detected', icon: <Assignment />, path: '/Voilationincident' },
   {
   text: "Manage Profile",
