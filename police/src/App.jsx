@@ -15,7 +15,7 @@ import AssignedCases from './pages/AssignedCases';
 import ManageProfile from './pages/ManageProfile';
 
 import { ThemeProvider } from './context/ThemeContext';
-import Voilationincident from './pages/voilationincident';
+import Voilationincident from './pages/Voilationincident';
 
 function App() {
   return (
